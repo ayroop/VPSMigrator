@@ -39,7 +39,7 @@ Then, navigate to the project directory:
 
       cd VPSMigrator
 
-If necessary, replace "ayroop" with your GitHub username.
+
 
 Usage
 -----
