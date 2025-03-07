@@ -96,20 +96,6 @@ Troubleshooting
 - Service Restart Problems: Use "systemctl status <service>" on the new VPS to diagnose 
   issues and review logs.
 
-Contributing
-------------
-We welcome contributions! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your changes:
-
-      git checkout -b feature-or-bugfix-name
-
-3. Commit your changes with descriptive messages.
-4. Push to your fork and submit a pull request.
-
-For detailed guidelines, see the CONTRIBUTING.md file.
-
 License
 -------
 This project is licensed under the MIT License.
