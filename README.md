@@ -8,14 +8,14 @@ moving web applications such as WordPress or custom Go-based projects.
 
 Table of Contents
 -----------------
-1. Prerequisites
-2. Installation
-3. Usage
-4. Example Configuration
-5. How It Works
-6. Troubleshooting
-7. Contributing
-8. License
+1. [Prerequisites](#prerequisites)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Example Configuration](#example-configuration)
+5. [How It Works](#how-it-works)
+6. [Troubleshooting](#troubleshooting)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 Prerequisites
 -------------
