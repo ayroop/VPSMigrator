@@ -39,8 +39,6 @@ Then, navigate to the project directory:
 
       cd VPSMigrator
 
-
-
 Usage
 -----
 1. Open "vps_migrator.py" and configure the OLD_VPS and NEW_VPS dictionaries with your server details.
@@ -49,7 +47,9 @@ Usage
 3. Optionally, update the custom_directories list with additional directories to migrate.
 4. Run the script:
 
+      ```
       python vps_migrator.py
+      ```
 
 5. Follow the on-screen prompts to complete the migration.
 
@@ -103,7 +103,7 @@ We welcome contributions! To contribute:
 1. Fork the repository.
 2. Create a new branch for your changes:
 
-       git checkout -b feature-or-bugfix-name
+      git checkout -b feature-or-bugfix-name
 
 3. Commit your changes with descriptive messages.
 4. Push to your fork and submit a pull request.
